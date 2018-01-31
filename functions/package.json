@@ -1,0 +1,16 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "firebase-admin": "^5.8.2",
+    "firebase-functions": "^0.8.1",
+    "googleapis": "^21.3.0"
+  },
+  "private": true,
+  "devDependencies": {
+    "@types/cors": "^2.8.1",
+    "ts-loader": "^2.3.6",
+    "webpack-node-externals": "^1.6.0"
+  }
+}
